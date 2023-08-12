@@ -14,14 +14,17 @@ E uma delas, se não a mais importante nesse módulo é o nosso SISTEMA GERENCIA
 
 1. **Módulo 1 - Banco de Dados Relacionais**: [Banco de dados relacionais](https://drive.google.com/drive/folders/1m7tzU5K6Y2AkgDU29OQFXR6qhHETbueT?usp=drive_link)
  
- No módulo 1 Aprendemos os conceitos de modelagem conceitual, lógica e modelagem física que ja se trata de linguagem SQL
- assim tabém de como funciona a parte de modelagem e tratamento.
+ No módulo 1 Aprendemos os conceitos de modelagem conceitual, lógica e modelagem física.
 
 **Aqui vemos uma imagem do modelo cenceitual**
 <img width="679" alt="ModelagemConceitual_Web" src="https://github.com/adaylson99/Portfolio_Banco_de_Dados/assets/137455643/99f8f269-853a-4630-96b1-0f2230e77472">
 
-- Cada quadrado com esses nomes chamamos nesse tipo de modelagem de Entidade onde cada entidade terá seus atributos, chaves primárias e chaves estrangeira dependendo de cada relacionamento, representado por esse retangulos.
+- Cada quadrado com esses nomes das tabelas chamamos de Entidade onde cada entidade terá seus atributos, chaves primárias e chaves estrangeira dependendo de cada relacionamento, representado por esse retangulos.
 
   
-2. 
+2. ------------
+
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
+| ------------        | ------------        | ------------ | ------------    |------------ |
+| **Prevendo Valores de Imóveis** | [Previsão de Valores de Imóveis](https://github.com/aasouzaconsult/Cientista-de-Dados/blob/master/Previs%C3%A3o%20Valores%20de%20Im%C3%B3veis/PrevisaoValores_Regressao.ipynb) | Python | data.csv | **Um projeto completo de Machine Learning**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento, geração do modelo (Regressão utilizando ***Regressão Linear, Decision Tree, Random Forest***) até o Deploy em Produção, utilizando **streamlit**|
 
